@@ -4,4 +4,5 @@ author: Edward Liu
 email: edward.liu@ryerson.ca
 description: A blog sharing my engineering projects and ideas.
 
+markdown: kramdown
 theme: jekyll-theme-architect
