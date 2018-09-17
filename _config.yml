@@ -1,1 +1,7 @@
+#basic options
+title: Edward Liu's Engineering Blog
+author: Edward Liu
+email: edward.liu@ryerson.ca
+description: A blog sharing my engineering projects and ideas.
+
 theme: jekyll-theme-architect
