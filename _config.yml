@@ -6,16 +6,3 @@ description: A blog sharing my engineering projects and ideas.
 
 markdown: kramdown
 theme: minima
-
-defaults:
-
-#_posts
-- scope:
-path: ""
-type: posts
-values:
-layout:single
-author_profile:true
-read_time:true
-share:true
-related:true
