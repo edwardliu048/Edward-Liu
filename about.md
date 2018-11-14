@@ -13,7 +13,7 @@ The purpose of this page is to document my journey in becoming a professional el
 # Outside of academia
 I am an hobbyist cyclist and also runner.
 
-Current bike: 2013 Trek 7.5 FX - Shimano 105 front and rear derailleurs 
+Current bike: 2013 Trek 7.5 FX - modified with Shimano 105 front and rear derailleurs 
 
 Also very passionate about cars - specifically older Volvo wagons and BMW's.
 
