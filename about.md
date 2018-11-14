@@ -20,3 +20,5 @@ Current bike: 2013 Trek 7.5 FX - modified with Shimano 105 front and rear derail
 
 Also very passionate about cars - specifically older Volvo wagons (P2 and older) and BMW's (E46 and older).
 
+Hobbyist mechanic - wrench everyday (at least I try to!)
+
