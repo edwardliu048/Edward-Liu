@@ -15,5 +15,5 @@ I am an hobbyist cyclist and also runner.
 
 Current bike: 2013 Trek 7.5 FX - modified with Shimano 105 front and rear derailleurs 
 
-Also very passionate about cars - specifically older Volvo wagons and BMW's.
+Also very passionate about cars - specifically older Volvo wagons (P2 and older) and BMW's (E46 and older).
 
