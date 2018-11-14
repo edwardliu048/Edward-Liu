@@ -11,7 +11,10 @@ I am currently an undergraduate electrical engineering student at Ryerson Univer
 The purpose of this page is to document my journey in becoming a professional electrical engineer in Ontario.
 
 # Outside of academia
-I am a hobbyist cyclist and also runner.
+
+Yes, I have interests outside of engineering!
+
+I am a hobbyist cyclist and also a runner.
 
 Current bike: 2013 Trek 7.5 FX - modified with Shimano 105 front and rear derailleurs 
 
