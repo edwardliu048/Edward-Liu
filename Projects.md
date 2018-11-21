@@ -9,9 +9,13 @@ title: Projects
 
 This isn't really a project, but the concept of inductive spiking had been confusing to me prior to drawing out this diagram.
 
-Inductive spiking can be both desirable and undesirable. It is undesirable with a inductive load such as a motor because it can cause HUGE voltage spikes (destroying sensitive electronic conponents) and thus is normally prevented with a flyback diode. It is desirable with boost converters, and other types of non-linear regulators which take advantage of such voltage spike to create a higher stable output voltage.
+Inductive spiking can be both desirable and VERY undesirable.
 
-For an intuitive explaination for inductive spiking, please visit this link: [Inductive Spiking](https://drive.google.com/file/d/15HxkyEAEUYgV2mV2CIKrwFFHS56S1lJa/view?usp=sharing)
+It is undesirable with a inductive load such as a motor because it can cause HUGE voltage spikes (destroying sensitive electronic conponents) and thus is normally prevented with a flyback diode. 
+
+It is desirable with boost converters, and other types of non-linear regulators which take advantage of such voltage spike to create a higher stable output voltage.
+
+For an intuitive explaination of inductive spiking, please visit this link: [Inductive Spiking](https://drive.google.com/file/d/15HxkyEAEUYgV2mV2CIKrwFFHS56S1lJa/view?usp=sharing)
 
 
 ###  Formula Ryerson Electrical Team Member
