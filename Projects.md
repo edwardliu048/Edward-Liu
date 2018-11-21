@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-## H2 Fall 2018
+##  Fall 2018
 
-### H3 Inductive Spiking: a simple explaination
+###  Inductive Spiking: a simple explaination
 
 This isn't really a project, but the concept of inductive spiking had been confusing to me prior to drawing out this diagram.
 
@@ -14,7 +14,7 @@ Inductive spiking can be both desirable and undesirable. It is undesirable with 
 For an intuitive explaination for inductive spiking, please visit this link: [Inductive Spiking](https://drive.google.com/file/d/15HxkyEAEUYgV2mV2CIKrwFFHS56S1lJa/view?usp=sharing)
 
 
-### H3 Formula Ryerson Electrical Team Member
+###  Formula Ryerson Electrical Team Member
 
 Designed power measurement system with collegues for 2018 R-F car.
 Learned to use ISL 280- series and PAC 1394 integrated circuits to design this system.
