@@ -5,6 +5,11 @@ title: Projects
 
 ##  Fall 2018
 
+### [Coming soon] Modernized iMac G4 17"
+The process of restoring and fully upgrading the iconic sunflower iMac to modern specification will be documented here.
+
+Should be a fun project!
+
 ###  Inductive Spiking: a simple explaination
 
 This isn't really a project, but the concept of inductive spiking had been confusing to me prior to drawing out this diagram.
