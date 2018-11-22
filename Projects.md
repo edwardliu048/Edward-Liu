@@ -6,7 +6,7 @@ title: Projects
 ##  Fall 2018
 
 ### [Coming soon] Modernized iMac G4 17"
-The process of restoring and fully upgrading the iconic sunflower iMac (circa 2002) to modern specification will be documented [here].
+The process of restoring and fully upgrading the iconic sunflower iMac (circa 2002) to modern specification will be documented [here](https://docs.google.com/document/d/1zV3Tc-up3YJ_WKRi_lHMN_xX-1I49sAXWsNl3AjZHLQ/edit?usp=sharing).
 
 Should be a fun project!
 
