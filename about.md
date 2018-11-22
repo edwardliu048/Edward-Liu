@@ -7,9 +7,9 @@ title: About
 My name is Edward Liu (or 刘国浩, not a translation).
 I am currently an undergraduate electrical engineering student at Ryerson University in my second year of studies.
 
-# What is the purpose of this page
+# Why did I make this website
 
-The purpose of this page is to document my journey in becoming a professional electrical engineer in Ontario.
+Writing is the deepest form of thinking and is one of the primary factors that has distinguised humans from other species. The website was intended to be an outlet for my ideas and experiences.
 
 # Outside of academia
 
