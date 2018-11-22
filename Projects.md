@@ -12,7 +12,7 @@ Should be a fun project!
 
 ###  Inductive Spiking: a simple explaination
 
-This isn't really a project, but the concept of inductive spiking had been confusing to me prior to drawing out this diagram.
+This isn't a project, but simply an explaination for a concept that some may have previously found confusing.
 
 Inductive spiking can be both desirable and VERY undesirable.
 
