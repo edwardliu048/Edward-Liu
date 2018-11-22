@@ -16,7 +16,7 @@ Yes, I have interests outside of engineering!
 
 I am a hobbyist cyclist and also a runner.
 
-Current bike: 2013 Trek 7.5 FX - modified with Shimano 105 front and rear derailleurs 
+Current bike: [2013 Trek 7.5 FX](https://archive.trekbikes.com/us/en/2013/Trek/7_5_fx#/us/en/2013/Trek/7_5_fx/details) - modified with Shimano 105 front and rear derailleurs 
 
 Also very passionate about cars - specifically older Volvo wagons (P2 and older) and BMW's (E46 and older).
 
