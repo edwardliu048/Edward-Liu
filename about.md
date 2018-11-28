@@ -4,7 +4,7 @@ title: About
 ---
 
 # Who am I
-My name is Edward Liu (or 刘国浩, not a translation).
+My name is Edward Liu (or 刘国浩, not a romanization).
 I am currently an undergraduate electrical engineering student at Ryerson University in my second year of studies.
 
 # Why did I make this website
