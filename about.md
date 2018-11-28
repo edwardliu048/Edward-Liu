@@ -23,5 +23,5 @@ Also very passionate about cars - specifically older Volvo wagons (P2 and older)
 
 Hobbyist mechanic - wrench everyday (at least I try to!)
 
-Hobbyist photographer: [Edward's Flicker gallery](https://www.flickr.com/photos/168333317@N06/31151883217/)
+Hobbyist photographer: [Edward's Flicker gallery](https://www.flickr.com/photos/168333317@N06/with/31151883217/)
 
