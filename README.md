@@ -5,4 +5,4 @@ This website is designed to be a portforilio to showcase my journey as an electr
 
 ![alt text](https://executivesolutions.ca/wp-content/uploads/2018/07/electrical-engineering-image.jpg)
 
-(Image from https://executivesolutions.ca/)
+(Image from [Excutive Solutions Canada](https://executivesolutions.ca/))
